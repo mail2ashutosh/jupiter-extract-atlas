@@ -1,1 +1,0 @@
-# jupiter-extract-atlas

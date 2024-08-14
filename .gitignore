@@ -1,0 +1,6 @@
+/source/build/
+*.spec
+__pycache__/
+*.pyc
+.vscode/
+.idea/
