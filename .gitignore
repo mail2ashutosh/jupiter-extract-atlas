@@ -1,4 +1,6 @@
+source/jupiter-extract.py
 /source/build/
+/source/output/
 *.spec
 __pycache__/
 *.pyc
