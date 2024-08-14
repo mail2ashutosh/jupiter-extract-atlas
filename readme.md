@@ -20,7 +20,7 @@ jupiter-extract-atlas/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mail2ashutosh/fortuneslotgame.git
+   git clone https://github.com/mail2ashutosh/jupiter-extract-atlas.git
 
 2. **Navigate to the `dist` directory:**
 
